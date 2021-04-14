@@ -24,18 +24,22 @@ Crunchy Peanut	:539.7	,32.22
 Muruku	:111.0	,7.00
 Food A	:211.0	,7.00
 Nasi lemak	:644.0	,83.0
+
 ----------------------------------------------------------------------------------------------------------------------------
 Course:
 
 Write a class named Course to represent course. A Course object can be created using the constructor by passing a course name. Students can be added by using addStudent(String student) method and return all the students for that course using the getStudents() method. Write a complete test program named TestCourse that can add three courses with more then five students for each courses. Display the number of student and students name for that courses as shown below:
 
 	Number of students in Programming II course : 6
+	
 1.	Siti Aminah Muhammad
 2.	Halim Zainal Abidin
 3.	Jason Lim
 4.	..
-5.	..
-Number of students in Database Systems course : 15
+5.	..	
+
+       Number of students in Database Systems course : 15
+      
 1.	Fatimah Ahmad
 2.	Sarah Goh
 ..
